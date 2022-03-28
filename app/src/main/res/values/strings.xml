@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AOne10</string>
+    <string name="Appearance">Appearance</string>
+    <string name="ChooseAppearance">Choose Appearance</string>
+    <string name="ChangeAppearance">Change Appearance</string>
+    <string name="DarkMode">Dark Mode</string>
+    <string name="LightMode">Light Mode</string>
+</resources>
